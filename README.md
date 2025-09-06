@@ -1,5 +1,5 @@
-**Django React Flashcards
-**
+Django React Flashcards
+
 A simple educational flashcards app built with Django REST Framework (backend) and React (frontend) to help users create, study, and manage decks of flashcards.
 
 📌 Features
